@@ -25,4 +25,4 @@
 13. Done
 
 # Note
-If you stuck when trying to login, change your gmail login page to English language
+If you stuck when trying to login, change your gmail login page to English (US) language
