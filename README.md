@@ -1,4 +1,4 @@
-# ***This code is created to Gmail autologin using google chrome browser.
+# ***This code is for Gmail autologin using google chrome browser.
 
 
 # _Requirements_
