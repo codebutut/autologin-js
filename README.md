@@ -23,3 +23,6 @@
 11. Go to Gmail, clik login.
 12. Click your script.
 13. Done
+
+# Note
+If you stuck when trying to login, change your gmail login page to English language
