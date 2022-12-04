@@ -18,7 +18,7 @@
 6. Paste the code.
 7. Copy output code.
 8. Open Google Chrome.
-9. Create `"add page"` in your chrome bookmark bar.
+9. Create `add page` in your chrome bookmark bar.
 10. Edit name bookmark and paste code from booklet output in link field, save it.
 11. Go to Gmail, clik login.
 12. Click your script.
